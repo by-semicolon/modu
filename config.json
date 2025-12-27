@@ -1,0 +1,16 @@
+{
+  "autoLoadScriptsOnImport": true,
+  "autoFindImporter": {
+    "ignoreFiles": ["_bootstrap.py", "_bootstrap_external.py", "runpy.py"]
+  },
+  "contextFile": {
+    "globalFileName": "context.py",
+    "localExtension": ".context.py"
+  },
+  "fileExtensions": {
+    "FunctionScript": ".def.py",
+    "ClassScript": ".class.py",
+    "VariableScript": ".var.py",
+    "ClassInstanceScript": ".inst.py"
+  }
+}
